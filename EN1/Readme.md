@@ -2,5 +2,5 @@ Project 2001 Energization 1
 ---------------------------
 This is stage 1 data
 ---------------------------
-![pre-project]("\before.png")
-![pre-project]("\after.png")
+![before](before.png "Pre-Project SLD")
+![after](after.png "Poste-Project SLD")
