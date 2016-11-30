@@ -6,7 +6,7 @@ The naming convention of the data file does not include the gate/stage informati
 The content of the Readme file and the idev file should also include staging information.
 ---
 ##Before Project
-![before](before.png "Before Project")
+![before](P2001-2_Before.png "Before Project")
 
 ##After Project
-![after](after.png "After Project")
+![after](P2001-2_After.png "After Project")
