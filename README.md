@@ -1,8 +1,10 @@
-# P2001
-Prototypical Project 2001
-This project is created from the savnw.sav case in the Example folder of the PTI PSSE software.  
-
-************************************************************************************************
+# Project 2001 
+##Energization 2
+---
+In this structure, A set of energization data is stored in an Energization "Branch" - **EN** branch.
+The naming convention of the data file does not include the gate/stage information. Instead, we will use the Tag to tag the staging information.
+The content of the Readme file and the idev file should also include staging information.
+---
 ##Before Project
 ![before](before.png "Before Project")
 
